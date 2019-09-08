@@ -5,7 +5,7 @@ O projeto está on line em
 
 Entre no diretorio do projeto clonado e rode:
 
-### `npm isntall`
+### `npm install`
 
 ## Execução
 
