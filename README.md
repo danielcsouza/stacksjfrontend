@@ -1,7 +1,7 @@
 O projeto está on line em 
 [https://react-app-daniel-stack.herokuapp.com/](https://react-app-daniel-stack.herokuapp.com/)
 
-## Instalção
+## Instalação
 
 Entre no diretorio do projeto clonado e rode:
 
